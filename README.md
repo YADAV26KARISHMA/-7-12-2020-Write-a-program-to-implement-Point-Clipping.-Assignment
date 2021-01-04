@@ -1,0 +1,1 @@
+# -7-12-2020-Write-a-program-to-implement-Point-Clipping.-Assignment
